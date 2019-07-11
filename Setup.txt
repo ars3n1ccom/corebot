@@ -1,0 +1,24 @@
+How to setup Corebot:
+
+(Dont Forget)
+You need to have node.js installed. We also suggest a program to use to edit the bot like Atom!
+
+
+1. Make sure all files are extracted
+2. Locate the config.yml file found in the CoreBot folder.
+3. Configure each setting to look custom for your server! (prefix, bot-token, hex color, etc etc)
+4. Double click the start.bat file to run your bot.
+5. Run the -install command to setup all channels & roles.
+
+Server Status:
+To connect your server to the server status command
+1. Open the Corebot folder and locate the config.json file and open it then scroll all the way down.
+3. Change the server name to yours.
+4. Change the GameModeNameOne setting to your server's gamemode.
+5. Change the GamemodeOneURL link to match your server's IP and port.
+5. Change the GameModeOneQueryURL link to match your server's IP and QUERY port. PLEASE NOTE: THE QUERY PORT WILL NOT ALWAYS BE THE SAME AS YOUR SERVER'S PORT. YOU NEED TO GO TO YOUR server.properties FILE TO GET THE CORRECT QUERY PORT.
+6. Change the Gamemode1url link to match your server's IP & port.
+
+Remember, if you are confused or in question, join the Discord and ask there!
+
+Discord: https://discord.gg/mhKwZ45
